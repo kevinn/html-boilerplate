@@ -1,0 +1,10 @@
+body {
+  font-size: 16px;
+  font-family: "Helvetica Neue", "Helvetica", Calibri, Arial, sans-serif;
+  color: #444;
+  background-color: #eee;
+}
+
+button {
+  padding: 8px 16px;
+}
